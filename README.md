@@ -23,4 +23,4 @@
 - أي الأقسام لديها أعلى معدل غياب أو استقالات؟
 
 - هل هناك علاقة بين التدريب ومعدل الترقيات؟
-- Dashboard Interaction [Home Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard/blob/main/Home%20Dashboard.png)  | [Datiles Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Datiles%20Dashboard.png) 
+- Dashboard Interaction [Home Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard/blob/main/Home%20Dashboard.png)  | [Datiles Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard/blob/main/Details%20Dashboard.png) 
