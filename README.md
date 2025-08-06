@@ -41,5 +41,5 @@
 - مراجعة وتحسين (Review & Optimization) – التأكد من وضوح التصميم وسهولة الاستخدام قبل تسليم المشروع.
 ## Dashboard
 <img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard/blob/main/Home%20Dashboard.png" />
-<img width="2461" height="1058" alt="Datiles Dashboard" src="https://github.com/user-attachments/assets/6ff7583f-eba7-4d85-9523-166d5198bec3" />
+<img width="2461" height="1058" alt="Datiles Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard/blob/main/Details%20Dashboard.png" />
 
